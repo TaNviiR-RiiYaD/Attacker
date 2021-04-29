@@ -83,7 +83,7 @@ opt()
 while tt<2:
 	opt2=str(input(blue+"\n\n [>] Enter the number of option : "+yellow))
 	if opt2=="1":
-		text=cyan+"\t\tCreated By : TaNviiR AhMeD"+green+"\n\n\t\t★★ CreZy DeveLoper ★★   \n" 
+		text=cyan+"\t\tCreated By : TaNviiR AhMeD"+green+"\n\n\t\t★★ CraZy DeveLoper ★★   \n" 
 		os.system('clear')
 		header()
 		number=str(input(lightblue+"\n\n\t [>] Enter Your Target Number : "+yellow))
@@ -142,6 +142,108 @@ while tt<2:
 		text=green+"\n\n\t\t★★★AttacKinG Tools★★★   \n" 
 		header()
 		opt()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
