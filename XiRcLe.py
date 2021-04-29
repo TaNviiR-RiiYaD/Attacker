@@ -42,12 +42,13 @@ def header():
 
 #SECURITY				
 header()
-print("First Setup Login")
+print("First Setp Of Login")
+print("-------------------")
 n=2
 while n==2:
 		a=str(input(cyan+"\n\n\t\t[>] Username : "+yellow))
 		b=str(input(cyan+"\n\n\t\t[>] Password : "+yellow))
-		if a=="RiiYaD" and b=="TaNviiR":
+		if a=="Innocent" and b=="Boy":
 			print(green+"\n\n\t\t[ √ ] Accepted")
 			n=3
 		else:
@@ -60,6 +61,7 @@ while n==2:
 #SECURITY
 header()
 print("Second Setup Login")
+print("------------------")
 n=2
 while n==2:
 		a=str(input(cyan+"\n\n\t\t[>] Username : "+yellow))
