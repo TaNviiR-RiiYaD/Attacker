@@ -42,7 +42,7 @@ n=2
 while n==2:
 		a=str(input(cyan+"\n\n\t\t[>] Username : "+yellow))
 		b=str(input(cyan+"\n\n\t\t[>] Password : "+yellow))
-		if a=="RiiYaD" and b=="TaNviiR":
+		if a=="aLOONeHeArT" and b=="aL00NeHeArT":
 			print(green+"\n\n\t\t[ √ ] Accepted")
 			n=3
 		else:
