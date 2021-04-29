@@ -19,11 +19,11 @@ space=" "
 logo=yellow+str("""
           
                        
-   ╔══════════════════════════════════════════════════╗
-   ║ Author : TaNviR-AhMeD-RiYaD                      ║
-   ║ Facebook : https://m.facebook.com/mrtanviir      ║
-   ║ Imo : +8801997797157                             ║
-   ╚══════════════════════════════════════════════════╝
+   ╔═══════════════════════════════════╗
+   ║ Author : TaNviR-AhMeD-RiYaD       ║
+   ║ Facebook : @MrTaNviiR             ║
+   ║ GitHub : @TaNviiR-RiiYaD          ║
+   ╚═══════════════════════════════════╝
        
                          version: 02
   
