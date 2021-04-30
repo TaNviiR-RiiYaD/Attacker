@@ -19,13 +19,13 @@ space=" "
 logo=yellow+str("""
           
                        
-   ╔══════════════════════════════╗
+   ╔═════════════════════════════════╗
    ║ Author.  : TaNviR-AhMeD-RiYaD   ║
    ║ Facebook : MrTaNviiR            ║
    ║ GitHub   : TaNviiR-RiiYaD       ║
-   ╚══════════════════════════════╝
+   ╚═════════════════════════════════╝
        
-                         version: 02
+                     version: 02
   
   
 """)
@@ -42,13 +42,14 @@ def header():
 
 #SECURITY				
 header()
+print("---------------------------------------")
 print("Your need to Login Befor Use The Tools")
-print("----------------------------------------")
+print("---------------------------------------")
 n=2
 while n==2:
 		a=str(input(cyan+"\n\n\t\t[>] Username : "+yellow))
 		b=str(input(cyan+"\n\n\t\t[>] Password : "+yellow))
-		if a=="Innocent" and b=="Boy":
+		if a=="Author" and b=="TaNviiR-RiiYaD":
 			print(green+"\n\n\t\t[ √ ] Accepted")
 			n=3
 		else:
