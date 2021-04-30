@@ -19,11 +19,11 @@ space=" "
 logo=yellow+str("""
           
                        
-   ╔═══════════════════════════════════╗
-   ║ Author : TaNviR-AhMeD-RiYaD       ║
-   ║ Facebook : @MrTaNviiR             ║
-   ║ GitHub : @TaNviiR-RiiYaD          ║
-   ╚═══════════════════════════════════╝
+   ╔══════════════════════════════╗
+   ║ Author.  : TaNviR-AhMeD-RiYaD   ║
+   ║ Facebook : MrTaNviiR            ║
+   ║ GitHub   : TaNviiR-RiiYaD       ║
+   ╚══════════════════════════════╝
        
                          version: 02
   
@@ -42,8 +42,8 @@ def header():
 
 #SECURITY				
 header()
-print("First Setp Of Login")
-print("-------------------")
+print("Your need to Login Befor Use The Tools")
+print("----------------------------------------")
 n=2
 while n==2:
 		a=str(input(cyan+"\n\n\t\t[>] Username : "+yellow))
@@ -58,38 +58,13 @@ while n==2:
 			
 			os.system('clear')
 			header()
-#SECURITY
-header()
-print("Second Setup Login")
-print("------------------")
-n=2
-while n==2:
-		a=str(input(cyan+"\n\n\t\t[>] Username : "+yellow))
-		b=str(input(cyan+"\n\n\t\t[>] Password : "+yellow))
-		if a=="TaNviiR" and b=="RiiYaD":
-			print(green+"\n\n\t\t[ √ ] Accepted")
-			n=3
-		else:
-			
-			print(red+"\n\n\t\t[ × ] Rejected Try Again")
-			n=2
-			
-			os.system('clear')
-			header()
-#SELECT_MAIN
-def opt():
-	print(green+"\n==> Select Your Option From Below")
-	print(yellow+"\n\n [1] SMS Bombing ")
-	
+
 
 #MAIN_TOOL
 os.system('clear')
 tt=1
 header()	
-opt()
 while tt<2:
-	opt2=str(input(blue+"\n\n [>] Enter the number of option : "+yellow))
-	if opt2=="1":
 		text=cyan+"\t\tCreated By : TaNviiR AhMeD"+green+"\n\n\t\t★★ CraZy DeveLoper ★★   \n" 
 		os.system('clear')
 		header()
