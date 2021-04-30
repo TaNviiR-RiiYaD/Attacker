@@ -29,7 +29,7 @@ GitHub: https://github.com/TaNviiR-RiiYaD
 Imo: +8801632964785
 
 
-If Anyone give The Tools by Some Money
+If Anyone give you The Tools by Some Money
 
 You can Inform Me
 
