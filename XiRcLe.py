@@ -25,7 +25,7 @@ logo=yellow+str("""
    ║ GitHub   : TaNviiR-RiiYaD       ║
    ╚═════════════════════════════════╝
        
-                     version: 02
+ 
   
   
 """)
@@ -49,7 +49,7 @@ n=2
 while n==2:
 		a=str(input(cyan+"\n\n\t\t[>] Username : "+yellow))
 		b=str(input(cyan+"\n\n\t\t[>] Password : "+yellow))
-		if a=="Author" and b=="TaNviiR-RiiYaD":
+		if a=="TaNviR" and b=="RiYaD":
 			print(green+"\n\n\t\t[ √ ] Accepted")
 			n=3
 		else:
@@ -66,7 +66,6 @@ os.system('clear')
 tt=1
 header()	
 while tt<2:
-		text=cyan+"\t\tCreated By : TaNviiR AhMeD"+green+"\n\n\t\t★★ CraZy DeveLoper ★★   \n" 
 		os.system('clear')
 		header()
 		number=str(input(lightblue+"\n\n\t [>] Enter Your Target Number : "+yellow))
