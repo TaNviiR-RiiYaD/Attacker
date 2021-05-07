@@ -68,10 +68,10 @@ header()
 while tt<2:
 		os.system('clear')
 		header()
-		number=str(input(lightblue+"\n\n\t [>] Enter Your Target Number : "+yellow))
-		ammount=int(input(lightblue+"\n\t [>] Enter The Ammount : "+yellow))
+		number=str(input(lightblue+"\n\n\t [>] Enter Your Target Number :88 "+red))
+		ammount=int(input(lightblue+"\n\t [>] Enter The Ammount : "+green))
 		os.system('clear')
-		notice=end+"\n\t\t\t   [•] Tools iS running......\n\n"
+		notice=cyan+"\n\t\t\t   [•] Tools iS running......\n\n"
 		header()
 		ammount2=1
 		totalsent=0
