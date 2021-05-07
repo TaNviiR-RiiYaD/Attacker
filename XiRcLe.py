@@ -120,8 +120,10 @@ while tt<2:
 		print(red+"\n\t\t[×] Total Not Sent : "+yellow+str(totalnotsent)+"\n")
 		lastt=str(input(purple+"\n\n\t\t  [✓] All Done!\n\t [•] Now Press Enter Key To Continue:\n"))
 		os.system('clear')
-		notice=""
-		text=green+"\n\n\t\t★★★AttacKinG Tools★★★   \n" 
+              else:
+		clear()
+		notice=red+"\t\t[×] Wrong Option Entered!"
+		count=1
 		header()
 		opt()
 
