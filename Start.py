@@ -47,9 +47,9 @@ print("Your need to Login Befor Use The Tools")
 print("---------------------------------------")
 n=2
 while n==2:
-		a=str(input(cyan+"\n\n\t\t[>] Username : "+yellow))
-		b=str(input(cyan+"\n\n\t\t[>] Password : "+yellow))
-		if a=="TaNviR" and b=="RiYaD":
+		a=str(input(cyan+"\n\n\t\t[>] Username : "+green))
+		b=str(input(cyan+"\n\n\t\t[>] Password : "+green))
+		if a=="Action" and b=="Team":
 			print(green+"\n\n\t\t[ √ ] Accepted")
 			n=3
 		else:
@@ -68,8 +68,8 @@ header()
 while tt<2:
 		os.system('clear')
 		header()
-		number=str(input(lightblue+"\n\n\t [>] Enter Your Target Number :88"+red))
-		ammount=int(input(lightblue+"\n\t [>] Enter The Ammount : "+green))
+		number=str(input(lightblue+"\n\n\t [>] Enter Your Target Number :88"+lightblue))
+		ammount=int(input(lightblue+"\n\t [>] Enter The Ammount : "+lightblue))
 		os.system('clear')
 		notice=cyan+"\n\t\t\t   [•] Tools iS running......\n\n"
 		header()
@@ -97,7 +97,7 @@ while tt<2:
 					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] 3rd SMS Sent.")
 				else:
 					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] "+str(ammount2)+"th SMS Sent.")
-				time.sleep(0.00001)
+				time.sleep(0.0001)
 				totalsent+=1
 				ammount2+=1
 			except:
@@ -109,7 +109,7 @@ while tt<2:
 					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+red+"[×] 3rd SMS Not Sent.")
 				else:
 					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+red+"[×] "+str(ammount2)+"th SMS Not Sent.")
-					time.sleep(0.00001)
+					time.sleep(0.0001)
 					ammount2+=1
 									
 								
