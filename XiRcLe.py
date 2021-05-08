@@ -68,7 +68,7 @@ header()
 while tt<2:
 		os.system('clear')
 		header()
-		number=str(input(lightblue+"\n\n\t [>] Enter Your Target Number :88 "+red))
+		number=str(input(lightblue+"\n\n\t [>] Enter Your Target Number :88"+red))
 		ammount=int(input(lightblue+"\n\t [>] Enter The Ammount : "+green))
 		os.system('clear')
 		notice=cyan+"\n\t\t\t   [•] Tools iS running......\n\n"
@@ -97,7 +97,7 @@ while tt<2:
 					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] 3rd SMS Sent.")
 				else:
 					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] "+str(ammount2)+"th SMS Sent.")
-				time.sleep(1)
+				time.sleep(0.00001)
 				totalsent+=1
 				ammount2+=1
 			except:
@@ -109,7 +109,7 @@ while tt<2:
 					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+red+"[×] 3rd SMS Not Sent.")
 				else:
 					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+red+"[×] "+str(ammount2)+"th SMS Not Sent.")
-					time.sleep(10)
+					time.sleep(0.00001)
 					ammount2+=1
 									
 								
