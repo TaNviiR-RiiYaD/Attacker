@@ -97,7 +97,7 @@ while tt<2:
 					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] 3rd SMS Sent.")
 				else:
 					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] "+str(ammount2)+"th SMS Sent.")
-				time.sleep(0.0001)
+				time.sleep(0.00000001)
 				totalsent+=1
 				ammount2+=1
 			except:
@@ -109,7 +109,7 @@ while tt<2:
 					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+red+"[×] 3rd SMS Not Sent.")
 				else:
 					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+red+"[×] "+str(ammount2)+"th SMS Not Sent.")
-					time.sleep(0.0001)
+					time.sleep(0.000000001)
 					ammount2+=1
 									
 								
