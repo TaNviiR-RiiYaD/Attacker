@@ -90,13 +90,13 @@ while tt<2:
 						
 						
 				if ammount2==1:
-					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] 1st SMS Sent.")
+					print(green+"1 SMS Sent.")
 				elif ammount2==2:
-					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] 2nd SMS Sent.")
+					print(green+"2 SMS Sent.")
 				elif ammount2==3:
-					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] 3rd SMS Sent.")
+					print(green+"3 SMS Sent.")
 				else:
-					print(purple+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] "+str(ammount2)+"th SMS Sent.")
+					print(green+"+str(ammount2)+"SMS Sent.")
 				time.sleep(0.01)
 				totalsent+=1
 				ammount2+=1
