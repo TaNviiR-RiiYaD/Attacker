@@ -96,7 +96,7 @@ while tt<2:
 				elif ammount2==3:
 					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] 3rd SMS Sent.")
 				else:
-					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+green+"[×] "+str(ammount2)+"th SMS Sent.")
+					print(cyan+"\n\t\t  ★★TaNviiR★★==>   "+green+"[✓] "+str(ammount2)+"th SMS Sent.")
 				time.sleep(0.01)
 				totalsent+=1
 				ammount2+=1
