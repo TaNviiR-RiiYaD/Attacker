@@ -10,13 +10,13 @@ apt install git
 pip install requests
 git clone https://github.com/TaNviiR-RiiYaD/Attacker
 cd Attacker
-python XiRcLe.py
+python Start.py
 
 
 For All Time Use the Tools 
 Type Below command
 cd Attacker
-python XiRcLe.py
+python Start.py
 
 Do enjoy by the Tools
 
