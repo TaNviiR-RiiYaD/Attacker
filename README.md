@@ -18,6 +18,12 @@ Type Below command
 cd Attacker
 python Start.py
 
+For update the Tools
+Type Below command
+
+cd Attacker
+bash update.sh
+
 Do enjoy by the Tools
 
 We are On
