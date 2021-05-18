@@ -4,26 +4,12 @@ Type Below command On your Terminal
 
 ```bash
 apt update
-```
-```bash
 apt upgrade
-```
-```bash
 apt install python
-```
-```bash
 apt install git
-```
-```bash
 pip install requests
-```
-```bash
 git clone https://github.com/TaNviiR-RiiYaD/Attacker
-```
-```bash
 cd Attacker
-```
-```bash
 python Start.py
 ```
 
@@ -33,8 +19,6 @@ Type Below command
 
 ```bash
 cd Attacker
-```
-```bash
 python Start.py
 ```
 
@@ -43,11 +27,14 @@ Type Below command
 
 ```bash
 cd Attacker
-```
-```bash
 bash update.sh
 ```
 
+### SECURITY
+```bash
+Username: Knock me On Messenger
+Password: knock me on Messenger
+```
 ## Screenshots
 
 <a><img src="https://github.com/TaNviiR-RiiYaD/Attacker/blob/main/Screenshot_2021-05-07-05-18-06.png" alt="bomberthon"/></a>
@@ -59,6 +46,10 @@ We are On
 ### Facebook
 ```bash
 https://m.facebook.com/mrtanviir
+```
+### Messenger
+```bash
+https://m.me/MrTaNviiR
 ```
 ### GitHub
 ```bash
