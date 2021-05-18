@@ -17,7 +17,7 @@ python Start.py
 For All Time Use the Tools 
 Type Below command
 
-```bash
+```
 cd Attacker
 python Start.py
 ```
@@ -25,13 +25,13 @@ python Start.py
 For update the Tools
 Type Below command
 
-```bash
+```
 cd Attacker
 bash update.sh
 ```
 
 ### SECURITY
-```bash
+```
 Username: Knock me On Messenger
 Password: knock me on Messenger
 ```
