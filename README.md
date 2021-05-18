@@ -56,14 +56,17 @@ Do enjoy by the Tools
 
 We are On
 
+### Facebook
 ```bash
-Facebook: https://m.facebook.com/mrtanviir
+https://m.facebook.com/mrtanviir
 ```
+### GitHub
 ```bash
-GitHub: https://github.com/TaNviiR-RiiYaD
+https://github.com/TaNviiR-RiiYaD
 ```
+### IMO
 ```bash
-Imo: +8801632964785
++8801632964785
 ```
 
 
