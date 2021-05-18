@@ -66,6 +66,12 @@ GitHub: https://github.com/TaNviiR-RiiYaD
 Imo: +8801632964785
 ```
 
+<h3><b><i>📡 Get in Touch :</i></b></h3>
+<a href="https://github.com/TaNviiR-RiiYaD"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://fb.com/MrTaNviiR"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://m.me/MrTaNviiR"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+
+
 If Anyone give you The Tools by Some Money
 
 You can Inform Me
