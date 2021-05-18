@@ -72,10 +72,12 @@ Imo: +8801632964785
 <a href="https://m.me/MrTaNviiR"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
 
 
+### NOTICE:
 If Anyone give you The Tools by Some Money
 
 You can Inform Me
 
 We Do Work Against Him/Her
 
+### Powered by
 TaNviiR-RiiYaD
