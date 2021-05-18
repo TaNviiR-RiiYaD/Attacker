@@ -2,39 +2,34 @@
 For First Time Activation the  Tools
 Type Below command On your Terminal
 
-```bash
-apt update
-apt upgrade
-apt install python
-apt install git
-pip install requests
-git clone https://github.com/TaNviiR-RiiYaD/Attacker
-cd Attacker
-python Start.py
-```
+* `apt update`
+* `apt upgrade`
+* `apt install python`
+* `apt install git`
+* `pip install requests`
+* `git clone https://github.com/TaNviiR-RiiYaD/Attacker`
+* `cd Attacker`
+* `python Start.py`
 
 
 For All Time Use the Tools 
 Type Below command
 
-```
-cd Attacker
-python Start.py
-```
+
+* `cd Attacker`
+* `python Start.py`
+
 
 For update the Tools
 Type Below command
 
-```
-cd Attacker
-bash update.sh
-```
+* `cd Attacker`
+* `bash update.sh`
 
 ### SECURITY
-```
-Username: Knock me On Messenger
-Password: knock me on Messenger
-```
+* `Username: Knock me On Messenger`
+* `Password: knock me on Messenger`
+
 ## Screenshots
 
 <a><img src="https://github.com/TaNviiR-RiiYaD/Attacker/blob/main/Screenshot_2021-05-07-05-18-06.png" alt="bomberthon"/></a>
